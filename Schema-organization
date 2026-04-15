@@ -1,0 +1,24 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Công ty Cổ phần Tư vấn Giải pháp Cenvi",
+  "alternateName": "Cenvi",
+  "url": "https://cenvi.vn/",
+  "logo": "https://cenvi.vn/favicon.ico",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "097 8888 503",
+    "contactType": "sales",
+    "areaServed": "VN",
+    "availableLanguage": "Vietnamese"
+  },
+  "sameAs": [
+    "https://www.facebook.com/cenvi.vn",
+    "https://x.com/cenvilaunch",
+    "https://www.instagram.com/cenvilaunch_thanhlapcongtyai/",
+    "https://www.youtube.com/@thanhlapcongtyai",
+    "https://www.linkedin.com/company/cenvi-tax-consulting"
+  ]
+}
+</script>
