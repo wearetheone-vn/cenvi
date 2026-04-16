@@ -1,0 +1,36 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Công ty Cổ phần Tư vấn Giải pháp Cenvi",
+  "image": "",
+  "@id": "",
+  "url": "https://cenvi.vn/",
+  "telephone": "097 8888 503",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "M11-01, Khu đô thị, Dương Nội, Hà Nội, Việt Nam",
+    "addressLocality": "Hà Nội",
+    "postalCode": "100000",
+    "addressCountry": "VN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 20.9629797,
+    "longitude": 105.7461722
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "opens": "08:30",
+    "closes": "17:30"
+  } 
+}
+</script>
