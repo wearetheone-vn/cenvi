@@ -1,0 +1,60 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Mở công ty mất bao lâu?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Thông thường, thời gian để được cấp Mã số thuế là trung bình 5 ngày làm việc kể từ khi hồ sơ hợp lệ. Tuy nhiên, do đây là thời gian để chuyên viên của Sở xem xét và phê duyệt đăng ký kinh doanh nên sẽ phụ thuộc vào Sở. Cenvi sẽ cố gắng phối hợp để đẩy nhanh tiến độ nhất có thể cho khách hàng."
+    }
+  },{
+    "@type": "Question",
+    "name": "Chi phí mở công ty là bao nhiêu?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Chi phí mở công ty phụ thuộc vào gói dịch vụ và các hạng mục đi kèm, nhưng thông thường sẽ bao gồm các khoản để doanh nghiệp có thể thực sự vận hành được như sau:
+- Lệ phí đăng ký doanh nghiệp
+- Khắc con dấu (dấu tròn công ty, dấu chức danh)
+- Chữ ký số
+- Hoá đơn điện tử
+Cenvi cung cấp các gói trọn gói rõ ràng ngay từ đầu, giúp khách hàng biết chính xác chi phí cần chuẩn bị mà không phải tự làm từng thủ tục riêng lẻ. Ngoài ra, Cenvi hỗ trợ tư vấn thủ tục thành lập và tư vấn thuế miễn phí cho khách hàng."
+    }
+  },{
+    "@type": "Question",
+    "name": "Có phát sinh chi phí gì sau khi mở công ty không?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Sau khi thành lập doanh nghiệp, doanh nghiệp sẽ cần thực hiện một số nghĩa vụ quản lý định kỳ, ví dụ:
+- Kê khai thuế theo tháng hoặc quý
+- Báo cáo tài chính cuối năm
+- Duy trì chữ ký số và hoá đơn điện tử
+Những chi phí này là chi phí vận hành doanh nghiệp theo quy định, không phải chi phí phát sinh từ việc thành lập.
+Cenvi sẽ tư vấn rõ ngay từ đầu để doanh nghiệp hiểu toàn bộ chi phí cần thiết khi bắt đầu kinh doanh."
+    }
+  },{
+    "@type": "Question",
+    "name": "Doanh nghiệp mới có phải đóng thuế ngay không?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Doanh nghiệp mới thành lập không phải lúc nào cũng phát sinh thuế ngay. Tùy theo hoạt động thực tế của doanh nghiệp:
+- Nếu chưa có doanh thu: doanh nghiệp thường chỉ cần thực hiện các kê khai thuế định kỳ.
+- Nếu có doanh thu: sẽ phát sinh các loại thuế như thuế GTGT, thuế TNDN hoặc thuế TNCN tùy trường hợp.
+Điều quan trọng là doanh nghiệp cần kê khai đúng và đúng hạn để tránh rủi ro bị phạt hành chính."
+    }
+  },{
+    "@type": "Question",
+    "name": "Tôi không hiểu luật, bên mình có làm hết thủ tục không?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Có. Khi sử dụng dịch vụ thành lập doanh nghiệp tại Cenvi, đội ngũ chuyên viên sẽ:
+- Tư vấn mô hình doanh nghiệp phù hợp
+- Chuẩn bị và hoàn thiện toàn bộ hồ sơ pháp lý
+- Thực hiện nộp hồ sơ và làm việc với cơ quan nhà nước
+- Hướng dẫn các nghĩa vụ thuế và vận hành ban đầu
+Khách hàng không cần tự đi lại nhiều lần hay tự nghiên cứu thủ tục pháp lý phức tạp"
+    }
+  }]
+}
+</script>
